@@ -1,4 +1,4 @@
-## To create a server
+## Get started with a new node (npm) project
 
 ```
 npm init
